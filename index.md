@@ -256,11 +256,11 @@ This lab is meant to be an introduction to cookies. The techniques I used analyz
 
 # References
 
-- <a href="https://www.linkedin.com/legal/l/cookie-table" target="_blank">Cookie Table.</a> Cookie Table
+- <a href="https://www.linkedin.com/legal/l/cookie-table" target="_blank">Cookie Table</a>
 
-- <a href="https://www.w3schools.com/html/html_iframe.asp" target="_blank">HTML IFRAMES.</a>
+- <a href="https://www.w3schools.com/html/html_iframe.asp" target="_blank">HTML IFRAMES</a>
 
-- <a href="https://pubmatic.com/legal/platform-cookie-policy/" target="_blank">Platform Cookie & Other Similar Technologies Policy.</a> PubMatic
+- <a href="https://pubmatic.com/legal/platform-cookie-policy/" target="_blank">Platform Cookie & Other Similar Technologies Policy</a> PubMatic
 
-- <a href="https://www.atinternet.com/en/glossary/third-party-cookie-2/" target="_blank">Third-Party Cookie - Digital Analytics Definition.</a> AT Internet
+- <a href="https://www.atinternet.com/en/glossary/third-party-cookie-2/" target="_blank">Third-Party Cookie - Digital Analytics Definition</a> AT Internet
 
