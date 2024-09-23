@@ -1,5 +1,5 @@
-title: Web Tracking
-description: A deep look at cookies and how they gather and distribute information
+title: Cookie Analysis
+description: A deep look at cookies (no, the other ones) and how they gather and distribute information
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
